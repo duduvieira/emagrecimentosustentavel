@@ -1,6 +1,5 @@
 function comprar() {
     alert("Redirecionando para a página de pagamento...");
-    // Substitua pelo link da sua plataforma de checkout
-    window.location.href = "https://seucheckout.com";
+    window.location.href = "https://pay.kirvano.com/d94dba45-1a9f-496e-95f4-6b704b262229";
   }
   
