@@ -1,0 +1,120 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  .container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  h1, h2 {
+    color: #2c3e50;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .hero {
+    background: linear-gradient(to right, #3498db, #2980b9);
+    color: white;
+    padding: 50px 20px;
+  }
+  
+  .hero h1 {
+    font-size: 2.5rem;
+  }
+  
+  .btn-primary {
+    background: #3eff17;
+    color: rgb(255, 0, 0);
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  .btn-primary:hover {
+    background: #c0392b;
+  }
+  
+  .problem {
+    background: #ecf0f1;
+    padding: 40px 20px;
+  }
+  
+  /* Benefits Section */
+  .benefits {
+    padding: 40px 20px;
+  }
+  
+  .grid {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .benefit {
+    background: #ecf0f1;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .benefit img {
+    width: 100px;
+    margin-bottom: 15px;
+  }
+  
+  .testimonials {
+    background: #f9f9f9;
+    padding: 40px 20px;
+  }
+  
+  .testimonial {
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+  }
+  
+  .purchase {
+    background: #3498db;
+    color: white;
+    padding: 50px 20px;
+  }
+  
+  .purchase .btn-primary {
+    margin-top: 20px;
+  }
+  
+  .guarantee {
+    font-size: 14px;
+    margin-top: 15px;
+  }
+  
+  /* Footer */
+  .footer {
+    background: #2c3e50;
+    color: white;
+    padding: 20px 0;
+  }
+  
